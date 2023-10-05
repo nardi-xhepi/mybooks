@@ -1,8 +1,6 @@
 # Application de Gestion de Librairie
 ## Créé par Nardi XHEPI
 
-Bienvenue sur notre application de gestion de librairie. Ici, vous pouvez naviguer, explorer les librairies disponibles et voir les détails de chaque librairie.
-
 ## Commencer
 
 Pour vous aider à démarrer avec l'application, voici quelques étapes et URL utiles.
@@ -26,5 +24,3 @@ Pour observer une librairie en particulier (par exemple, celle avec l'ID 1) et v
 
 - Si vous rencontrez des soucis ou des bugs, n'hésitez pas à ouvrir une issue pour nous le signaler.
 - Explorez, amusez-vous et n'oubliez pas de donner une étoile si vous aimez le projet!
-
-**Merci d'utiliser notre application de gestion de librairie. Bonne navigation !**

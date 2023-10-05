@@ -1,27 +1,30 @@
-Bienvenue sur notre application de gestion de librairie !
+# Application de Gestion de Librairie
+## Créé par Nardi XHEPI
 
-Navigation et utilisation du site
---------------------------------
+Bienvenue sur notre application de gestion de librairie. Ici, vous pouvez naviguer, explorer les librairies disponibles et voir les détails de chaque librairie.
 
-1. Accès au tableau de bord d'administration:
-   Pour accéder à l'espace d'administration où vous pouvez gérer l'ensemble des informations liées à la librairie (comme les livres, auteurs, etc.), rendez-vous sur:
-   URL: /admin
+## Commencer
 
-2. Consulter la liste des librairies:
-   Pour voir toutes les librairies disponibles, allez à:
-   URL: /librairie
-   Ici, chaque librairie est un lien cliquable qui vous dirigera vers sa page de détails.
+Pour vous aider à démarrer avec l'application, voici quelques étapes et URL utiles.
 
-3. Détails d'une librairie particulière:
-   Pour voir une librairie spécifique (par exemple, celle avec l'ID 1), utilisez:
-   URL: /librairie/1
-   (Changez "1" par l'ID de la librairie que vous souhaitez voir.)
-   Sur cette page, vous verrez des informations sur la librairie et une liste de tous les livres qu'elle possède.
+### 1. Tableau de bord d'administration
 
-Conseils généraux:
-------------------
+Accédez à l'espace d'administration pour gérer toutes les informations liées à la librairie, telles que les livres, auteurs, etc.
+- URL: `/admin`
 
-- Si vous rencontrez des soucis ou bugs, n'hésitez pas à les remonter pour qu'on puisse les corriger.
-- Explorez, amusez-vous et donnez-nous vos retours !
+### 2. Consulter les librairies
 
-Merci d'utiliser notre application de gestion de librairie. Bonne navigation !
+Visualisez toutes les librairies disponibles. Chaque librairie est également un lien cliquable menant à sa page de détails.
+- URL: `/librairie`
+
+### 3. Détails d'une librairie spécifique
+
+Pour observer une librairie en particulier (par exemple, celle avec l'ID 1) et voir tous les livres qu'elle possède:
+- URL: `/librairie/1` (Changez "1" par l'ID de la librairie de votre choix.)
+
+## Conseils et dépannage
+
+- Si vous rencontrez des soucis ou des bugs, n'hésitez pas à ouvrir une issue pour nous le signaler.
+- Explorez, amusez-vous et n'oubliez pas de donner une étoile si vous aimez le projet!
+
+**Merci d'utiliser notre application de gestion de librairie. Bonne navigation !**

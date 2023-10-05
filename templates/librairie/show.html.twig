@@ -1,0 +1,13 @@
+<html>
+<body>
+    <h1>{{ librairie.description }}</h1>
+    <h2>Livres de cette librairie</h2>
+    <ul>
+        {% for livre in livres %}
+            <li>{{ livre.titre }} - {{ livre.auteur }}</li>  {# Supposant que les entités Livre ont des propriétés titre et auteur #}
+        {% endfor %}
+    </ul>
+
+    <p><a href="{{ path('app_Librairie') }}">Back to list</a></p>
+</body>
+</html>

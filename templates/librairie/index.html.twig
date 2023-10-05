@@ -1,0 +1,9 @@
+<html>
+<body>
+    <ul>
+    {% for librairie in librairies %}
+        <li><a href="{{ path('librairie_show', {'id': librairie.id}) }}">{{ librairie.description }}</a></li>
+    {% endfor %}
+    </ul>
+</body>
+</html>
